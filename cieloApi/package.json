@@ -1,0 +1,6 @@
+{
+	"name":"cieloApi",
+	"main":"./index.js",
+
+	"type":"module"
+}
